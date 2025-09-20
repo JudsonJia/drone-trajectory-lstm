@@ -20,6 +20,8 @@ The system achieves high accuracy in predicting drone trajectories with Average 
 
 - **`trajectory_visualizer.py`** - Advanced visualization tool for trajectory comparison between predicted and ground truth paths. Automatically detects mission types and provides appropriate 3D plots, height analysis, and X-Y plane projections.
 
+- **`duration_predictor_evaluation.py`** - Specialized evaluation script for time prediction accuracy assessment. Analyzes duration prediction MAE across different segment types, validates temporal modeling capabilities, and generates performance comparison charts.
+
 ### Data Processing and Analysis
 
 - **`segmenter.py`** - Automated trajectory segmentation tool that converts raw flight data into labeled training segments. Analyzes flight patterns, identifies segment boundaries (takeoff, vertical, horizontal movements), and generates structured training data with metadata.
