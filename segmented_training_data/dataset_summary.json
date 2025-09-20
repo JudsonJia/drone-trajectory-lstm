@@ -1,0 +1,5920 @@
+{
+  "overview": {
+    "total_files": 313,
+    "total_segments": 1939,
+    "avg_segments_per_file": 6.194888178913738
+  },
+  "trajectory_type_distribution": {
+    "square_large": 50,
+    "square_medium": 50,
+    "triangle_large": 50,
+    "triangle_medium": 50,
+    "vertical_large": 48,
+    "vertical_medium": 28,
+    "vertical_small": 37
+  },
+  "segment_type_distribution": {
+    "takeoff": 313,
+    "vertical_up": 463,
+    "horizontal_straight": 400,
+    "vertical_down": 463,
+    "horizontal_diagonal": 300
+  },
+  "detailed_file_info": [
+    {
+      "filename": "square_large_20250905_140821.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_140903.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_140943.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141047.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141252.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141415.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141455.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141547.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141638.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141722.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141806.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141848.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_141932.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_142021.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_142649.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_142730.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_142812.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_142857.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_143027.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_143108.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_143149.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_143238.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_143320.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144104.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144304.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144348.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144431.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144515.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144604.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144656.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144746.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_144840.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145053.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145150.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145236.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145331.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145415.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145458.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145539.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145625.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145902.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_145942.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_150028.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_150107.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_150147.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_150226.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_150414.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_151440.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_151523.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_large_20250905_151606.json",
+      "trajectory_type": "square_large",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131137.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131213.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131255.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131339.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131428.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131505.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131549.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131631.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131809.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131847.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_131940.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_132150.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_132328.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_132409.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_132446.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_132531.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_132609.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133016.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133213.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133255.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133340.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133426.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133508.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133700.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133854.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_133931.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134109.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134153.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134241.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134319.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134357.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134442.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134523.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134605.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_134644.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135020.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135105.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135156.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135333.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135549.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135632.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135716.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135756.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_135945.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_140258.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_140346.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_140427.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_140517.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_140603.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "square_med_20250905_140641.json",
+      "trajectory_type": "square_medium",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "horizontal_straight",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_straight": 4,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_170710.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_170751.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_170833.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171007.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171144.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171223.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171304.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171343.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171425.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171504.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171543.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171710.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_171747.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_172735.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_172814.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_172903.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_172942.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173024.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173102.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173138.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173222.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173259.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173338.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173419.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173553.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173627.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173812.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_173850.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174025.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174103.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174142.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174230.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174318.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174505.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174541.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174624.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174817.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174859.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_174941.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175016.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175051.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175133.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175300.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175527.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175608.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175649.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175831.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_175923.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_180002.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_large_20250905_180041.json",
+      "trajectory_type": "triangle_large",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_161216.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_161257.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_161338.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_161425.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_161616.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162108.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162143.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162219.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162301.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162338.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162415.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162453.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162625.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162801.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_162842.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163033.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163111.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163147.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163224.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163302.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163346.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163424.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163505.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163550.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_163627.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164113.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164155.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164234.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164313.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164350.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164533.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164612.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164652.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_164740.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165319.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165411.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165530.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165632.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165714.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165750.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165827.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165911.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_165948.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170117.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170158.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170327.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170408.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170447.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170525.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "triangle_med_20250905_170603.json",
+      "trajectory_type": "triangle_medium",
+      "total_segments": 6,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "horizontal_diagonal",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 1,
+        "horizontal_diagonal": 3,
+        "vertical_down": 1
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150032.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150120.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150303.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150345.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150511.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150552.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_150956.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_151701.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_151733.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_151816.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_151850.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_151924.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152103.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152137.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152210.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152243.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152356.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152535.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152656.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_152958.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_153157.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_153520.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154112.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154144.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154215.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154254.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154331.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154405.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154448.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154521.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154605.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154728.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_154904.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_155224.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_155700.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_155859.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160020.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160159.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160243.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160315.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160403.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160505.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160604.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160651.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_160954.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_161037.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_161407.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_large_20250904_161445.json",
+      "trajectory_type": "vertical_large",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_133350.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_133433.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_134017.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_134050.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_134130.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_134939.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135025.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135113.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135201.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135404.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135556.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135629.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135851.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_135924.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_140054.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_141701.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_142157.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_142236.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_143031.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_144208.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_144248.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_144536.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_144610.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_144647.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_144822.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_145030.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_145138.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_med_20250904_145618.json",
+      "trajectory_type": "vertical_medium",
+      "total_segments": 5,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 2,
+        "vertical_down": 2
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121027.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121335.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121650.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121746.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121821.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121857.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_121954.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_122748.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_123918.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_124528.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_124746.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_124823.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_124901.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_124939.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125017.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125144.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125410.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125458.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125629.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125712.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125751.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125832.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125910.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_125950.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_130229.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_130417.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_130513.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_130604.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_130810.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_131049.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_131700.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_131842.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_131948.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_132115.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_132214.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_132259.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    },
+    {
+      "filename": "vertical_small_20250904_132429.json",
+      "trajectory_type": "vertical_small",
+      "total_segments": 7,
+      "segment_types": [
+        "takeoff",
+        "vertical_up",
+        "vertical_up",
+        "vertical_up",
+        "vertical_down",
+        "vertical_down",
+        "vertical_down"
+      ],
+      "segment_breakdown": {
+        "takeoff": 1,
+        "vertical_up": 3,
+        "vertical_down": 3
+      }
+    }
+  ]
+}

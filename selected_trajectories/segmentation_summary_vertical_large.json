@@ -1,0 +1,5618 @@
+[
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150032.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.025745630264282227,
+        "end_time": 3.3932079076766968,
+        "start_idx": 0,
+        "end_idx": 337,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.02422933839261532,
+          0.048792265355587006,
+          0.027105996385216713
+        ],
+        "duration": 3.3674622774124146,
+        "distance": 0.020338586398962757,
+        "avg_speed": 0.006039736966137923,
+        "num_states": 338
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3932079076766968,
+        "end_time": 4.669533848762512,
+        "start_idx": 337,
+        "end_idx": 465,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2763259410858154,
+        "distance": 0.4639851729729489,
+        "avg_speed": 0.36353188322586344,
+        "num_states": 129
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.669533848762512,
+        "end_time": 7.009374737739563,
+        "start_idx": 465,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.024694548919796944,
+          -0.039327189326286316,
+          1.1420625448226929
+        ],
+        "duration": 2.339840888977051,
+        "distance": 0.6567222135727747,
+        "avg_speed": 0.2806696030771073,
+        "num_states": 235
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.009374737739563,
+        "end_time": 8.14950430393219,
+        "start_idx": 699,
+        "end_idx": 813,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.024694548919796944,
+          -0.039327189326286316,
+          1.1420625448226929
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.140129566192627,
+        "distance": 0.5676755050039792,
+        "avg_speed": 0.49790438020100375,
+        "num_states": 115
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.14950430393219,
+        "end_time": 10.604393124580383,
+        "start_idx": 813,
+        "end_idx": 1059,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4548888206481934,
+        "distance": 0.3570377424462818,
+        "avg_speed": 0.14543947548386688,
+        "num_states": 247
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150032_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150120.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022267580032348633,
+        "end_time": 3.3805415630340576,
+        "start_idx": 0,
+        "end_idx": 336,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.03144603967666626,
+          0.0373699925839901,
+          0.025980129837989807
+        ],
+        "duration": 3.358273983001709,
+        "distance": 0.020619690928526137,
+        "avg_speed": 0.0061399668499041715,
+        "num_states": 337
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3805415630340576,
+        "end_time": 4.648544073104858,
+        "start_idx": 336,
+        "end_idx": 463,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2680025100708008,
+        "distance": 0.4641278512916821,
+        "avg_speed": 0.36603070388698744,
+        "num_states": 128
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.648544073104858,
+        "end_time": 7.087027907371521,
+        "start_idx": 463,
+        "end_idx": 707,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.02539977803826332,
+          -0.02032661810517311,
+          1.1344376802444458
+        ],
+        "duration": 2.4384838342666626,
+        "distance": 0.6485735152243285,
+        "avg_speed": 0.2659740885341474,
+        "num_states": 245
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.087027907371521,
+        "end_time": 8.228227734565735,
+        "start_idx": 707,
+        "end_idx": 821,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.02539977803826332,
+          -0.02032661810517311,
+          1.1344376802444458
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1411998271942139,
+        "distance": 0.5582992255297843,
+        "avg_speed": 0.48922126714865927,
+        "num_states": 115
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.228227734565735,
+        "end_time": 10.792517304420471,
+        "start_idx": 821,
+        "end_idx": 1078,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5642895698547363,
+        "distance": 0.37060926526869015,
+        "avg_speed": 0.14452707277114757,
+        "num_states": 258
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150120_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150303.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022126317024230957,
+        "end_time": 3.378710389137268,
+        "start_idx": 0,
+        "end_idx": 336,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.027369052171707153,
+          0.032333169132471085,
+          0.028562061488628387
+        ],
+        "duration": 3.356584072113037,
+        "distance": 0.019253874055235203,
+        "avg_speed": 0.005736151289997185,
+        "num_states": 337
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.378710389137268,
+        "end_time": 4.686324954032898,
+        "start_idx": 336,
+        "end_idx": 467,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3076145648956299,
+        "distance": 0.46286062653346394,
+        "avg_speed": 0.3539732876640206,
+        "num_states": 132
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.686324954032898,
+        "end_time": 7.11608350276947,
+        "start_idx": 467,
+        "end_idx": 710,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.03877780959010124,
+          -0.026094475761055946,
+          1.141034483909607
+        ],
+        "duration": 2.4297585487365723,
+        "distance": 0.6543649098965488,
+        "avg_speed": 0.26931273078010404,
+        "num_states": 244
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.11608350276947,
+        "end_time": 8.24399709701538,
+        "start_idx": 710,
+        "end_idx": 823,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.03877780959010124,
+          -0.026094475761055946,
+          1.141034483909607
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1279135942459106,
+        "distance": 0.5757729809596324,
+        "avg_speed": 0.5104761427621386,
+        "num_states": 114
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.24399709701538,
+        "end_time": 10.702147245407104,
+        "start_idx": 823,
+        "end_idx": 1069,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4581501483917236,
+        "distance": 0.3664284364867152,
+        "avg_speed": 0.14906674302481307,
+        "num_states": 247
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150303_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150345.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.025631189346313477,
+        "end_time": 3.41079318523407,
+        "start_idx": 0,
+        "end_idx": 339,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.009404981508851051,
+          0.046776287257671356,
+          0.0363641157746315
+        ],
+        "duration": 3.3851619958877563,
+        "distance": 0.029820995496238484,
+        "avg_speed": 0.008809325973901567,
+        "num_states": 340
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.41079318523407,
+        "end_time": 4.678854703903198,
+        "start_idx": 339,
+        "end_idx": 466,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2680615186691284,
+        "distance": 0.4519050962619508,
+        "avg_speed": 0.35637474176823836,
+        "num_states": 128
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.678854703903198,
+        "end_time": 7.01950991153717,
+        "start_idx": 466,
+        "end_idx": 700,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.04099002853035927,
+          -0.04618027061223984,
+          1.156994342803955
+        ],
+        "duration": 2.340655207633972,
+        "distance": 0.6739228252923966,
+        "avg_speed": 0.2879205886857743,
+        "num_states": 235
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.01950991153717,
+        "end_time": 8.248861074447632,
+        "start_idx": 700,
+        "end_idx": 823,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.04099002853035927,
+          -0.04618027061223984,
+          1.156994342803955
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2293511629104614,
+        "distance": 0.5887953423693648,
+        "avg_speed": 0.4789480501042558,
+        "num_states": 124
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.248861074447632,
+        "end_time": 10.604119300842285,
+        "start_idx": 823,
+        "end_idx": 1059,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.3552582263946533,
+        "distance": 0.3438023652701734,
+        "avg_speed": 0.14597225960928029,
+        "num_states": 237
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150345_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150511.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02121436595916748,
+        "end_time": 3.338396191596985,
+        "start_idx": 0,
+        "end_idx": 332,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.010792816057801247,
+          0.0614905059337616,
+          0.003816962707787752
+        ],
+        "duration": 3.3171818256378174,
+        "distance": 0.01818419564439761,
+        "avg_speed": 0.005481820593570027,
+        "num_states": 333
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.338396191596985,
+        "end_time": 4.6272382736206055,
+        "start_idx": 332,
+        "end_idx": 461,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2888420820236206,
+        "distance": 0.471544236761395,
+        "avg_speed": 0.36586657383270715,
+        "num_states": 130
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.6272382736206055,
+        "end_time": 7.105048179626465,
+        "start_idx": 461,
+        "end_idx": 709,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.0487196184694767,
+          -0.030176930129528046,
+          1.1373622417449951
+        ],
+        "duration": 2.4778099060058594,
+        "distance": 0.6677323173639703,
+        "avg_speed": 0.2694848849161035,
+        "num_states": 249
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.105048179626465,
+        "end_time": 8.095150589942932,
+        "start_idx": 709,
+        "end_idx": 808,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.0487196184694767,
+          -0.030176930129528046,
+          1.1373622417449951
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 0.9901024103164673,
+        "distance": 0.5676802779697543,
+        "avg_speed": 0.5733551116074005,
+        "num_states": 100
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.095150589942932,
+        "end_time": 10.64242172241211,
+        "start_idx": 808,
+        "end_idx": 1063,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5472711324691772,
+        "distance": 0.3749355854754725,
+        "avg_speed": 0.1471910786002712,
+        "num_states": 256
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150511_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150552.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.027090072631835938,
+        "end_time": 3.333496570587158,
+        "start_idx": 0,
+        "end_idx": 331,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.011129853315651417,
+          0.050777237862348557,
+          0.010334454476833344
+        ],
+        "duration": 3.3064064979553223,
+        "distance": 0.013044784824700248,
+        "avg_speed": 0.003945305827570544,
+        "num_states": 332
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.333496570587158,
+        "end_time": 4.732654094696045,
+        "start_idx": 331,
+        "end_idx": 471,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3991575241088867,
+        "distance": 0.483037687857293,
+        "avg_speed": 0.34523467124613877,
+        "num_states": 141
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.732654094696045,
+        "end_time": 7.010658502578735,
+        "start_idx": 471,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.0539311021566391,
+          -0.035321034491062164,
+          1.1208860874176025
+        ],
+        "duration": 2.2780044078826904,
+        "distance": 0.6333637385999721,
+        "avg_speed": 0.2780344657843121,
+        "num_states": 229
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.010658502578735,
+        "end_time": 8.198408842086792,
+        "start_idx": 699,
+        "end_idx": 818,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.0539311021566391,
+          -0.035321034491062164,
+          1.1208860874176025
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1877503395080566,
+        "distance": 0.5619191734975723,
+        "avg_speed": 0.4730953591899695,
+        "num_states": 120
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.198408842086792,
+        "end_time": 10.656835913658142,
+        "start_idx": 818,
+        "end_idx": 1064,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.45842707157135,
+        "distance": 0.34383998719511133,
+        "avg_speed": 0.13986178039250907,
+        "num_states": 247
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150552_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_150956.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.031493544578552246,
+        "end_time": 3.365257501602173,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.019284341484308243,
+          0.05275576189160347,
+          0.0009835399687290192
+        ],
+        "duration": 3.3337639570236206,
+        "distance": 0.011838181648996323,
+        "avg_speed": 0.003550995751830443,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.365257501602173,
+        "end_time": 4.718165040016174,
+        "start_idx": 334,
+        "end_idx": 470,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3529075384140015,
+        "distance": 0.4923754075907237,
+        "avg_speed": 0.36393869766438725,
+        "num_states": 137
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.718165040016174,
+        "end_time": 6.937690854072571,
+        "start_idx": 470,
+        "end_idx": 692,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.009259480983018875,
+          -0.03362089395523071,
+          1.1415290832519531
+        ],
+        "duration": 2.2195258140563965,
+        "distance": 0.6540817753980951,
+        "avg_speed": 0.2946943762743168,
+        "num_states": 223
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.937690854072571,
+        "end_time": 8.169727087020874,
+        "start_idx": 692,
+        "end_idx": 815,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.009259480983018875,
+          -0.03362089395523071,
+          1.1415290832519531
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2320362329483032,
+        "distance": 0.5667195246119738,
+        "avg_speed": 0.45998608600641183,
+        "num_states": 124
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.169727087020874,
+        "end_time": 10.6536146402359,
+        "start_idx": 815,
+        "end_idx": 1064,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.483887553215027,
+        "distance": 0.3669388456683657,
+        "avg_speed": 0.14772763976107428,
+        "num_states": 250
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_150956_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_151701.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02015078067779541,
+        "end_time": 3.3494133949279785,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.009579482488334179,
+          0.06022229418158531,
+          0.016078827902674675
+        ],
+        "duration": 3.329262614250183,
+        "distance": 0.016846756893180385,
+        "avg_speed": 0.005060206671913328,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3494133949279785,
+        "end_time": 4.777601003646851,
+        "start_idx": 333,
+        "end_idx": 476,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.428187608718872,
+        "distance": 0.4751549727934783,
+        "avg_speed": 0.33269786818813446,
+        "num_states": 144
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.777601003646851,
+        "end_time": 7.184787750244141,
+        "start_idx": 476,
+        "end_idx": 717,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.028676843270659447,
+          -0.05357138812541962,
+          1.122882604598999
+        ],
+        "duration": 2.40718674659729,
+        "distance": 0.6399043321380948,
+        "avg_speed": 0.26583078069976906,
+        "num_states": 242
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.184787750244141,
+        "end_time": 8.303387522697449,
+        "start_idx": 717,
+        "end_idx": 829,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.028676843270659447,
+          -0.05357138812541962,
+          1.122882604598999
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.118599772453308,
+        "distance": 0.552801772611256,
+        "avg_speed": 0.4941908502259513,
+        "num_states": 113
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.303387522697449,
+        "end_time": 10.801351189613342,
+        "start_idx": 829,
+        "end_idx": 1079,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4979636669158936,
+        "distance": 0.3624105028751778,
+        "avg_speed": 0.1450823755665859,
+        "num_states": 251
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_151701_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_151733.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021460533142089844,
+        "end_time": 3.3572707176208496,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.00980590470135212,
+          0.06193506345152855,
+          0.02255602553486824
+        ],
+        "duration": 3.3358101844787598,
+        "distance": 0.018758805347753843,
+        "avg_speed": 0.005623463060049689,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3572707176208496,
+        "end_time": 4.768681168556213,
+        "start_idx": 334,
+        "end_idx": 475,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4114104509353638,
+        "distance": 0.46499690012768374,
+        "avg_speed": 0.32945547471291786,
+        "num_states": 142
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.768681168556213,
+        "end_time": 7.144797682762146,
+        "start_idx": 475,
+        "end_idx": 713,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.05369098111987114,
+          -0.02327823080122471,
+          1.1372053623199463
+        ],
+        "duration": 2.3761165142059326,
+        "distance": 0.6570721564031938,
+        "avg_speed": 0.276531959807021,
+        "num_states": 239
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.144797682762146,
+        "end_time": 8.322101473808289,
+        "start_idx": 713,
+        "end_idx": 831,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.05369098111987114,
+          -0.02327823080122471,
+          1.1372053623199463
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1773037910461426,
+        "distance": 0.5995401186258454,
+        "avg_speed": 0.5092484396853075,
+        "num_states": 119
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.322101473808289,
+        "end_time": 10.750871419906616,
+        "start_idx": 831,
+        "end_idx": 1074,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4287699460983276,
+        "distance": 0.34751747611293227,
+        "avg_speed": 0.14308373531680021,
+        "num_states": 244
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_151733_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_151816.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022621989250183105,
+        "end_time": 3.3496766090393066,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.012930183671414852,
+          0.05198678746819496,
+          0.015573756769299507
+        ],
+        "duration": 3.3270546197891235,
+        "distance": 0.018068513722172164,
+        "avg_speed": 0.005430783617047258,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3496766090393066,
+        "end_time": 4.762203097343445,
+        "start_idx": 333,
+        "end_idx": 474,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4125264883041382,
+        "distance": 0.47838336968779527,
+        "avg_speed": 0.33867214076964774,
+        "num_states": 142
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.762203097343445,
+        "end_time": 7.00721001625061,
+        "start_idx": 474,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.053719814866781235,
+          -0.03660169616341591,
+          1.1165701150894165
+        ],
+        "duration": 2.2450069189071655,
+        "distance": 0.6289795009866388,
+        "avg_speed": 0.28016817930022964,
+        "num_states": 226
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.00721001625061,
+        "end_time": 8.155582070350647,
+        "start_idx": 699,
+        "end_idx": 814,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.053719814866781235,
+          -0.03660169616341591,
+          1.1165701150894165
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1483720541000366,
+        "distance": 0.549739891246332,
+        "avg_speed": 0.47871235570701487,
+        "num_states": 116
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.155582070350647,
+        "end_time": 10.703342199325562,
+        "start_idx": 814,
+        "end_idx": 1069,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5477601289749146,
+        "distance": 0.3577432642931884,
+        "avg_speed": 0.14041481386912416,
+        "num_states": 256
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_151816_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_151850.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02046799659729004,
+        "end_time": 3.360000967979431,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.003823156002908945,
+          0.04813242331147194,
+          0.011248068884015083
+        ],
+        "duration": 3.339532971382141,
+        "distance": 0.01963486562632351,
+        "avg_speed": 0.005879524410922997,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.360000967979431,
+        "end_time": 4.65913200378418,
+        "start_idx": 334,
+        "end_idx": 464,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2991310358047485,
+        "distance": 0.4665561373704933,
+        "avg_speed": 0.35912939073269423,
+        "num_states": 131
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.65913200378418,
+        "end_time": 6.835020065307617,
+        "start_idx": 464,
+        "end_idx": 682,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.053475406020879745,
+          -0.045861393213272095,
+          1.129141926765442
+        ],
+        "duration": 2.1758880615234375,
+        "distance": 0.656465774698268,
+        "avg_speed": 0.30170015926216653,
+        "num_states": 219
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.835020065307617,
+        "end_time": 8.163931369781494,
+        "start_idx": 682,
+        "end_idx": 815,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.053475406020879745,
+          -0.045861393213272095,
+          1.129141926765442
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.328911304473877,
+        "distance": 0.5845121583403443,
+        "avg_speed": 0.43984286714436205,
+        "num_states": 134
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.163931369781494,
+        "end_time": 10.644482374191284,
+        "start_idx": 815,
+        "end_idx": 1063,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.48055100440979,
+        "distance": 0.3315765892958888,
+        "avg_speed": 0.13367053880626917,
+        "num_states": 249
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_151850_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_151924.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02152836322784424,
+        "end_time": 3.349068760871887,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.01394462026655674,
+          0.04332517459988594,
+          0.02481795847415924
+        ],
+        "duration": 3.327540397644043,
+        "distance": 0.016309572860400922,
+        "avg_speed": 0.004901389889044889,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.349068760871887,
+        "end_time": 4.7875635623931885,
+        "start_idx": 333,
+        "end_idx": 477,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4384948015213013,
+        "distance": 0.46586743186469554,
+        "avg_speed": 0.3238575706856991,
+        "num_states": 145
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.7875635623931885,
+        "end_time": 7.054408550262451,
+        "start_idx": 477,
+        "end_idx": 704,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.0491931177675724,
+          -0.03996972739696503,
+          1.1234934329986572
+        ],
+        "duration": 2.2668449878692627,
+        "distance": 0.6388750749202889,
+        "avg_speed": 0.28183447846639226,
+        "num_states": 228
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.054408550262451,
+        "end_time": 8.245550036430359,
+        "start_idx": 704,
+        "end_idx": 823,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.0491931177675724,
+          -0.03996972739696503,
+          1.1234934329986572
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1911414861679077,
+        "distance": 0.5679446411090723,
+        "avg_speed": 0.4768070356916548,
+        "num_states": 120
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.245550036430359,
+        "end_time": 10.652534127235413,
+        "start_idx": 823,
+        "end_idx": 1064,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4069840908050537,
+        "distance": 0.3598995848879542,
+        "avg_speed": 0.1495230426585745,
+        "num_states": 242
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_151924_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152103.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02169013023376465,
+        "end_time": 3.3422683477401733,
+        "start_idx": 0,
+        "end_idx": 332,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.005782329477369785,
+          0.035754572600126266,
+          0.0025396496057510376
+        ],
+        "duration": 3.3205782175064087,
+        "distance": 0.025566584882025442,
+        "avg_speed": 0.007699437630240402,
+        "num_states": 333
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3422683477401733,
+        "end_time": 4.668375015258789,
+        "start_idx": 332,
+        "end_idx": 465,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3261066675186157,
+        "distance": 0.47745301440604987,
+        "avg_speed": 0.36004118379063005,
+        "num_states": 134
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.668375015258789,
+        "end_time": 6.986382961273193,
+        "start_idx": 465,
+        "end_idx": 697,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.039573002606630325,
+          -0.028177453204989433,
+          1.1268398761749268
+        ],
+        "duration": 2.3180079460144043,
+        "distance": 0.6494068621895663,
+        "avg_speed": 0.28015730632250857,
+        "num_states": 233
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.986382961273193,
+        "end_time": 8.116257786750793,
+        "start_idx": 697,
+        "end_idx": 810,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.039573002606630325,
+          -0.028177453204989433,
+          1.1268398761749268
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1298748254776,
+        "distance": 0.5533181188713642,
+        "avg_speed": 0.4897162998896587,
+        "num_states": 114
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.116257786750793,
+        "end_time": 10.70246434211731,
+        "start_idx": 810,
+        "end_idx": 1069,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.586206555366516,
+        "distance": 0.3739165669838613,
+        "avg_speed": 0.1445810916409459,
+        "num_states": 260
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152103_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152137.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.027475595474243164,
+        "end_time": 3.362620234489441,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.0008613252430222929,
+          0.03702738881111145,
+          0.016860436648130417
+        ],
+        "duration": 3.3351446390151978,
+        "distance": 0.019477392341768925,
+        "avg_speed": 0.005840044270919601,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.362620234489441,
+        "end_time": 4.650243639945984,
+        "start_idx": 334,
+        "end_idx": 463,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.287623405456543,
+        "distance": 0.4668134595015547,
+        "avg_speed": 0.3625388118322066,
+        "num_states": 130
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.650243639945984,
+        "end_time": 6.938198566436768,
+        "start_idx": 463,
+        "end_idx": 692,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.02167314477264881,
+          -0.05038433521986008,
+          1.1198424100875854
+        ],
+        "duration": 2.2879549264907837,
+        "distance": 0.6400704783158438,
+        "avg_speed": 0.2797565943738106,
+        "num_states": 230
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.938198566436768,
+        "end_time": 8.2478266954422,
+        "start_idx": 692,
+        "end_idx": 823,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.02167314477264881,
+          -0.05038433521986008,
+          1.1198424100875854
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3096281290054321,
+        "distance": 0.5523047235632779,
+        "avg_speed": 0.4217263750914646,
+        "num_states": 132
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.2478266954422,
+        "end_time": 10.794822692871094,
+        "start_idx": 823,
+        "end_idx": 1078,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.546995997428894,
+        "distance": 0.3682785056274613,
+        "avg_speed": 0.14459328008337113,
+        "num_states": 256
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152137_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152210.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02314460277557373,
+        "end_time": 3.3682899475097656,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.006271725054830313,
+          0.04040010645985603,
+          0.00812001433223486
+        ],
+        "duration": 3.345145344734192,
+        "distance": 0.01901329154924029,
+        "avg_speed": 0.0056838461680507645,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3682899475097656,
+        "end_time": 4.70512330532074,
+        "start_idx": 334,
+        "end_idx": 468,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3368333578109741,
+        "distance": 0.48095557274851414,
+        "avg_speed": 0.3597722707458953,
+        "num_states": 135
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.70512330532074,
+        "end_time": 7.010155916213989,
+        "start_idx": 468,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.037878233939409256,
+          -0.041963618248701096,
+          1.1358445882797241
+        ],
+        "duration": 2.3050326108932495,
+        "distance": 0.6503598510938604,
+        "avg_speed": 0.2821477874197329,
+        "num_states": 232
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.010155916213989,
+        "end_time": 8.268631935119629,
+        "start_idx": 699,
+        "end_idx": 825,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.037878233939409256,
+          -0.041963618248701096,
+          1.1358445882797241
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2584760189056396,
+        "distance": 0.5628700370337058,
+        "avg_speed": 0.44726322041732103,
+        "num_states": 127
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.268631935119629,
+        "end_time": 10.785908460617065,
+        "start_idx": 825,
+        "end_idx": 1077,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5172765254974365,
+        "distance": 0.3735018655774215,
+        "avg_speed": 0.14837538180419577,
+        "num_states": 253
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152210_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152243.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021148085594177246,
+        "end_time": 3.3554491996765137,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.005823278799653053,
+          0.03185787796974182,
+          0.016447797417640686
+        ],
+        "duration": 3.3343011140823364,
+        "distance": 0.019912072374288235,
+        "avg_speed": 0.005971887868852066,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3554491996765137,
+        "end_time": 4.652844071388245,
+        "start_idx": 333,
+        "end_idx": 463,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.297394871711731,
+        "distance": 0.4640808516483508,
+        "avg_speed": 0.3577020857466941,
+        "num_states": 131
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.652844071388245,
+        "end_time": 7.099311470985413,
+        "start_idx": 463,
+        "end_idx": 708,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.031204672530293465,
+          -0.043769240379333496,
+          1.1291779279708862
+        ],
+        "duration": 2.446467399597168,
+        "distance": 0.6523924883286235,
+        "avg_speed": 0.2666671497180161,
+        "num_states": 246
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.099311470985413,
+        "end_time": 8.368658900260925,
+        "start_idx": 708,
+        "end_idx": 835,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.031204672530293465,
+          -0.043769240379333496,
+          1.1291779279708862
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2693474292755127,
+        "distance": 0.5599634130864001,
+        "avg_speed": 0.441142747975629,
+        "num_states": 128
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.368658900260925,
+        "end_time": 10.73745846748352,
+        "start_idx": 835,
+        "end_idx": 1072,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.368799567222595,
+        "distance": 0.36331957846922747,
+        "avg_speed": 0.15337708749044468,
+        "num_states": 238
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152243_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152356.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021084189414978027,
+        "end_time": 3.3682607412338257,
+        "start_idx": 0,
+        "end_idx": 335,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.005190109368413687,
+          0.04232419654726982,
+          0.006872331723570824
+        ],
+        "duration": 3.3471765518188477,
+        "distance": 0.021176670118284505,
+        "avg_speed": 0.006326726358900057,
+        "num_states": 336
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3682607412338257,
+        "end_time": 4.706272721290588,
+        "start_idx": 335,
+        "end_idx": 469,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3380119800567627,
+        "distance": 0.4871276841433022,
+        "avg_speed": 0.3640682530530382,
+        "num_states": 135
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.706272721290588,
+        "end_time": 7.085079550743103,
+        "start_idx": 469,
+        "end_idx": 707,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.04835069924592972,
+          -0.06469210237264633,
+          1.1295627355575562
+        ],
+        "duration": 2.3788068294525146,
+        "distance": 0.6415794046241082,
+        "avg_speed": 0.269706390901765,
+        "num_states": 239
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.085079550743103,
+        "end_time": 8.250598192214966,
+        "start_idx": 707,
+        "end_idx": 822,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.04835069924592972,
+          -0.06469210237264633,
+          1.1295627355575562
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1655186414718628,
+        "distance": 0.5657980092637629,
+        "avg_speed": 0.485447412963941,
+        "num_states": 116
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.250598192214966,
+        "end_time": 10.591715812683105,
+        "start_idx": 822,
+        "end_idx": 1058,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.3411176204681396,
+        "distance": 0.3418723826436364,
+        "avg_speed": 0.14602956282703736,
+        "num_states": 237
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152356_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152535.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.023515701293945312,
+        "end_time": 3.380124568939209,
+        "start_idx": 0,
+        "end_idx": 336,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.0026362044736742973,
+          0.026280507445335388,
+          0.019088152796030045
+        ],
+        "duration": 3.3566088676452637,
+        "distance": 0.02456561902287212,
+        "avg_speed": 0.007318582531215635,
+        "num_states": 337
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.380124568939209,
+        "end_time": 4.597960948944092,
+        "start_idx": 336,
+        "end_idx": 458,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2178363800048828,
+        "distance": 0.45367911419099066,
+        "avg_speed": 0.37252879092770386,
+        "num_states": 123
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.597960948944092,
+        "end_time": 6.9771376848220825,
+        "start_idx": 458,
+        "end_idx": 696,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.06822610646486282,
+          -0.012532363645732403,
+          1.1356199979782104
+        ],
+        "duration": 2.3791767358779907,
+        "distance": 0.6667403631932072,
+        "avg_speed": 0.28023994734765223,
+        "num_states": 239
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.9771376848220825,
+        "end_time": 8.096580982208252,
+        "start_idx": 696,
+        "end_idx": 808,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.06822610646486282,
+          -0.012532363645732403,
+          1.1356199979782104
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1194432973861694,
+        "distance": 0.5674936337385471,
+        "avg_speed": 0.5069427232836263,
+        "num_states": 113
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.096580982208252,
+        "end_time": 10.644291877746582,
+        "start_idx": 808,
+        "end_idx": 1063,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.54771089553833,
+        "distance": 0.3656741430371559,
+        "avg_speed": 0.1435304703047514,
+        "num_states": 256
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152535_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152656.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.01953709125518799,
+        "end_time": 3.377768635749817,
+        "start_idx": 0,
+        "end_idx": 336,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.006598048377782106,
+          0.026594027876853943,
+          0.019725365564227104
+        ],
+        "duration": 3.358231544494629,
+        "distance": 0.02590302660007753,
+        "avg_speed": 0.007713293814579901,
+        "num_states": 337
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.377768635749817,
+        "end_time": 4.679344892501831,
+        "start_idx": 336,
+        "end_idx": 466,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3015762567520142,
+        "distance": 0.46566418853615915,
+        "avg_speed": 0.3577694246652818,
+        "num_states": 131
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.679344892501831,
+        "end_time": 6.984577417373657,
+        "start_idx": 466,
+        "end_idx": 697,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.058508049696683884,
+          -0.03929758816957474,
+          1.1563780307769775
+        ],
+        "duration": 2.305232524871826,
+        "distance": 0.6743223532815033,
+        "avg_speed": 0.29251814990724045,
+        "num_states": 232
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.984577417373657,
+        "end_time": 8.20510196685791,
+        "start_idx": 697,
+        "end_idx": 819,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.058508049696683884,
+          -0.03929758816957474,
+          1.1563780307769775
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.220524549484253,
+        "distance": 0.5945078989276217,
+        "avg_speed": 0.4870921270521253,
+        "num_states": 123
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.20510196685791,
+        "end_time": 10.662227869033813,
+        "start_idx": 819,
+        "end_idx": 1065,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4571259021759033,
+        "distance": 0.3586462118529636,
+        "avg_speed": 0.14596167479060193,
+        "num_states": 247
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152656_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_152958.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02179253101348877,
+        "end_time": 3.349770188331604,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.018239956349134445,
+          0.033739589154720306,
+          -0.002681586192920804
+        ],
+        "duration": 3.3279776573181152,
+        "distance": 0.012834637999991886,
+        "avg_speed": 0.003856587790416481,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.349770188331604,
+        "end_time": 4.669099450111389,
+        "start_idx": 333,
+        "end_idx": 465,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3193292617797852,
+        "distance": 0.4944644368154109,
+        "avg_speed": 0.37478471154984816,
+        "num_states": 133
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.669099450111389,
+        "end_time": 6.936315655708313,
+        "start_idx": 465,
+        "end_idx": 692,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.03126825764775276,
+          -0.034378472715616226,
+          1.134069800376892
+        ],
+        "duration": 2.267216205596924,
+        "distance": 0.6482438815939692,
+        "avg_speed": 0.28592062812258184,
+        "num_states": 228
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.936315655708313,
+        "end_time": 8.195049405097961,
+        "start_idx": 692,
+        "end_idx": 818,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.03126825764775276,
+          -0.034378472715616226,
+          1.134069800376892
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2587337493896484,
+        "distance": 0.5571144760931116,
+        "avg_speed": 0.4425991408931815,
+        "num_states": 127
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.195049405097961,
+        "end_time": 10.742747902870178,
+        "start_idx": 818,
+        "end_idx": 1073,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.547698497772217,
+        "distance": 0.3670967285213783,
+        "avg_speed": 0.14408954938835133,
+        "num_states": 256
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_152958_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_153157.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02308487892150879,
+        "end_time": 3.3600631952285767,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.002332406584173441,
+          0.01591608300805092,
+          0.0018862126162275672
+        ],
+        "duration": 3.336978316307068,
+        "distance": 0.014766604229299473,
+        "avg_speed": 0.004425142398180526,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3600631952285767,
+        "end_time": 4.659304976463318,
+        "start_idx": 334,
+        "end_idx": 464,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2992417812347412,
+        "distance": 0.4839052261182968,
+        "avg_speed": 0.37245202017627155,
+        "num_states": 131
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.659304976463318,
+        "end_time": 7.037459850311279,
+        "start_idx": 464,
+        "end_idx": 702,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.05023636296391487,
+          -0.02264106459915638,
+          1.144248366355896
+        ],
+        "duration": 2.3781548738479614,
+        "distance": 0.6613074503402643,
+        "avg_speed": 0.2780758551987151,
+        "num_states": 239
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.037459850311279,
+        "end_time": 8.21553385257721,
+        "start_idx": 702,
+        "end_idx": 820,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.05023636296391487,
+          -0.02264106459915638,
+          1.144248366355896
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1780740022659302,
+        "distance": 0.5714040188159196,
+        "avg_speed": 0.48503236444983094,
+        "num_states": 119
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.21553385257721,
+        "end_time": 10.553483009338379,
+        "start_idx": 820,
+        "end_idx": 1054,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.3379491567611694,
+        "distance": 0.34591464104176095,
+        "avg_speed": 0.1479564429540319,
+        "num_states": 235
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_153157_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_153520.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.0198134183883667,
+        "end_time": 3.41894793510437,
+        "start_idx": 0,
+        "end_idx": 340,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.01718810573220253,
+          0.034529127180576324,
+          0.025717763230204582
+        ],
+        "duration": 3.3991345167160034,
+        "distance": 0.033669157391012776,
+        "avg_speed": 0.00990521476141564,
+        "num_states": 341
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.41894793510437,
+        "end_time": 4.636573910713196,
+        "start_idx": 340,
+        "end_idx": 462,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2176259756088257,
+        "distance": 0.4683660708630603,
+        "avg_speed": 0.3846551241885854,
+        "num_states": 123
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.636573910713196,
+        "end_time": 7.0139442682266235,
+        "start_idx": 462,
+        "end_idx": 700,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.025926489382982254,
+          -0.0337664894759655,
+          1.1523189544677734
+        ],
+        "duration": 2.3773703575134277,
+        "distance": 0.6608401206748602,
+        "avg_speed": 0.27797104417759094,
+        "num_states": 239
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.0139442682266235,
+        "end_time": 8.203120708465576,
+        "start_idx": 700,
+        "end_idx": 819,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.025926489382982254,
+          -0.0337664894759655,
+          1.1523189544677734
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1891764402389526,
+        "distance": 0.5944236027376109,
+        "avg_speed": 0.4998615702630029,
+        "num_states": 120
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.203120708465576,
+        "end_time": 10.73511254787445,
+        "start_idx": 819,
+        "end_idx": 1072,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5319918394088745,
+        "distance": 0.3801301477215445,
+        "avg_speed": 0.15013087396454275,
+        "num_states": 254
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_153520_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154112.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.020374178886413574,
+        "end_time": 3.348786950111389,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.005795813165605068,
+          0.06360302120447159,
+          0.03220071271061897
+        ],
+        "duration": 3.3284127712249756,
+        "distance": 0.019670708318451333,
+        "avg_speed": 0.005909936558503171,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.348786950111389,
+        "end_time": 4.676896572113037,
+        "start_idx": 333,
+        "end_idx": 466,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.328109622001648,
+        "distance": 0.44537404923526625,
+        "avg_speed": 0.33534434346166764,
+        "num_states": 134
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.676896572113037,
+        "end_time": 7.04645037651062,
+        "start_idx": 466,
+        "end_idx": 703,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.0018650026759132743,
+          -0.022604912519454956,
+          1.1440129280090332
+        ],
+        "duration": 2.369553804397583,
+        "distance": 0.6721811631921248,
+        "avg_speed": 0.28367415078089564,
+        "num_states": 238
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.04645037651062,
+        "end_time": 8.183367013931274,
+        "start_idx": 703,
+        "end_idx": 817,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.0018650026759132743,
+          -0.022604912519454956,
+          1.1440129280090332
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1369166374206543,
+        "distance": 0.5699521187866108,
+        "avg_speed": 0.5013139046673402,
+        "num_states": 115
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.183367013931274,
+        "end_time": 10.7914479970932,
+        "start_idx": 817,
+        "end_idx": 1078,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.6080809831619263,
+        "distance": 0.37119829531980914,
+        "avg_speed": 0.1423262152196609,
+        "num_states": 262
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154112_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154144.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02064502239227295,
+        "end_time": 3.3486167192459106,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.012959400191903114,
+          0.054080914705991745,
+          0.040221311151981354
+        ],
+        "duration": 3.3279716968536377,
+        "distance": 0.01592554673959118,
+        "avg_speed": 0.00478536123208249,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3486167192459106,
+        "end_time": 4.615934610366821,
+        "start_idx": 333,
+        "end_idx": 460,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2673178911209106,
+        "distance": 0.42426592374037897,
+        "avg_speed": 0.334774666019373,
+        "num_states": 128
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.615934610366821,
+        "end_time": 7.059113144874573,
+        "start_idx": 460,
+        "end_idx": 704,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0.0179436057806015,
+          -0.059035658836364746,
+          1.114977478981018
+        ],
+        "duration": 2.4431785345077515,
+        "distance": 0.6572821879955043,
+        "avg_speed": 0.26902748968688556,
+        "num_states": 245
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.059113144874573,
+        "end_time": 8.21830689907074,
+        "start_idx": 704,
+        "end_idx": 820,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0.0179436057806015,
+          -0.059035658836364746,
+          1.114977478981018
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.159193754196167,
+        "distance": 0.5465919639105876,
+        "avg_speed": 0.47152769925819443,
+        "num_states": 117
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.21830689907074,
+        "end_time": 10.736729741096497,
+        "start_idx": 820,
+        "end_idx": 1072,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.518422842025757,
+        "distance": 0.37158641092934563,
+        "avg_speed": 0.14754726836516888,
+        "num_states": 253
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154144_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154215.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021301984786987305,
+        "end_time": 3.3507171869277954,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.011585473082959652,
+          0.045874930918216705,
+          0.03789753466844559
+        ],
+        "duration": 3.329415202140808,
+        "distance": 0.014104628194315695,
+        "avg_speed": 0.0042363680520370196,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3507171869277954,
+        "end_time": 4.646692514419556,
+        "start_idx": 333,
+        "end_idx": 463,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2959753274917603,
+        "distance": 0.43112640756868426,
+        "avg_speed": 0.3326655981970655,
+        "num_states": 131
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.646692514419556,
+        "end_time": 7.02580988407135,
+        "start_idx": 463,
+        "end_idx": 701,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.01426437497138977,
+          -0.038578201085329056,
+          1.1369460821151733
+        ],
+        "duration": 2.3791173696517944,
+        "distance": 0.6723075379500013,
+        "avg_speed": 0.2825869570480248,
+        "num_states": 239
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.02580988407135,
+        "end_time": 8.156859517097473,
+        "start_idx": 701,
+        "end_idx": 814,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.01426437497138977,
+          -0.038578201085329056,
+          1.1369460821151733
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.131049633026123,
+        "distance": 0.5654954349503621,
+        "avg_speed": 0.4999740227467996,
+        "num_states": 114
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.156859517097473,
+        "end_time": 10.80394172668457,
+        "start_idx": 814,
+        "end_idx": 1079,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.647082209587097,
+        "distance": 0.35999675888096505,
+        "avg_speed": 0.135997574075011,
+        "num_states": 266
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154215_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154254.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021373391151428223,
+        "end_time": 3.3495678901672363,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.019877953454852104,
+          0.04953555762767792,
+          0.034698858857154846
+        ],
+        "duration": 3.328194499015808,
+        "distance": 0.01066171731475246,
+        "avg_speed": 0.003203453799922232,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3495678901672363,
+        "end_time": 4.717203855514526,
+        "start_idx": 333,
+        "end_idx": 470,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.36763596534729,
+        "distance": 0.44056838707404555,
+        "avg_speed": 0.3221386379394973,
+        "num_states": 138
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.717203855514526,
+        "end_time": 7.004994869232178,
+        "start_idx": 470,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.013206114061176777,
+          -0.0481446348130703,
+          1.1244953870773315
+        ],
+        "duration": 2.2877910137176514,
+        "distance": 0.6545196438017923,
+        "avg_speed": 0.28609240961140087,
+        "num_states": 230
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.004994869232178,
+        "end_time": 8.22309124469757,
+        "start_idx": 699,
+        "end_idx": 821,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.013206114061176777,
+          -0.0481446348130703,
+          1.1244953870773315
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.218096375465393,
+        "distance": 0.5511128074127556,
+        "avg_speed": 0.452437769714399,
+        "num_states": 123
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.22309124469757,
+        "end_time": 10.791605114936829,
+        "start_idx": 821,
+        "end_idx": 1078,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.568513870239258,
+        "distance": 0.3688226486926978,
+        "avg_speed": 0.14359379288006022,
+        "num_states": 258
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154254_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154331.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02319645881652832,
+        "end_time": 3.3408700227737427,
+        "start_idx": 0,
+        "end_idx": 332,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.019894558936357498,
+          0.04603241756558418,
+          0.0338725745677948
+        ],
+        "duration": 3.3176735639572144,
+        "distance": 0.015027528391184576,
+        "avg_speed": 0.0045295379733683696,
+        "num_states": 333
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3408700227737427,
+        "end_time": 4.688207507133484,
+        "start_idx": 332,
+        "end_idx": 467,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3473374843597412,
+        "distance": 0.4341391876290445,
+        "avg_speed": 0.32222007675779074,
+        "num_states": 136
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.688207507133484,
+        "end_time": 7.150334000587463,
+        "start_idx": 467,
+        "end_idx": 713,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.013251612894237041,
+          -0.05415113642811775,
+          1.1362454891204834
+        ],
+        "duration": 2.4621264934539795,
+        "distance": 0.6733783562810363,
+        "avg_speed": 0.2734946226651383,
+        "num_states": 247
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.150334000587463,
+        "end_time": 8.266799449920654,
+        "start_idx": 713,
+        "end_idx": 825,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.013251612894237041,
+          -0.05415113642811775,
+          1.1362454891204834
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.116465449333191,
+        "distance": 0.577245526114599,
+        "avg_speed": 0.5170294579732485,
+        "num_states": 113
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.266799449920654,
+        "end_time": 10.693973898887634,
+        "start_idx": 825,
+        "end_idx": 1068,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.42717444896698,
+        "distance": 0.34052123607397483,
+        "avg_speed": 0.14029532826488952,
+        "num_states": 244
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154331_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154405.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.023630142211914062,
+        "end_time": 3.3508923053741455,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.010008717887103558,
+          0.03989037498831749,
+          0.037520632147789
+        ],
+        "duration": 3.3272621631622314,
+        "distance": 0.015322845867923008,
+        "avg_speed": 0.004605241521864381,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3508923053741455,
+        "end_time": 4.769346833229065,
+        "start_idx": 333,
+        "end_idx": 475,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4184545278549194,
+        "distance": 0.441706886431618,
+        "avg_speed": 0.31140010325152706,
+        "num_states": 143
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.769346833229065,
+        "end_time": 7.199280381202698,
+        "start_idx": 475,
+        "end_idx": 718,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.0324726477265358,
+          -0.0521792471408844,
+          1.1490492820739746
+        ],
+        "duration": 2.429933547973633,
+        "distance": 0.6752683175842095,
+        "avg_speed": 0.27789579601768466,
+        "num_states": 244
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.199280381202698,
+        "end_time": 8.297131896018982,
+        "start_idx": 718,
+        "end_idx": 828,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.0324726477265358,
+          -0.0521792471408844,
+          1.1490492820739746
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.0978515148162842,
+        "distance": 0.5823098033607205,
+        "avg_speed": 0.5304085256540042,
+        "num_states": 111
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.297131896018982,
+        "end_time": 10.755337834358215,
+        "start_idx": 828,
+        "end_idx": 1074,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4582059383392334,
+        "distance": 0.361492520738175,
+        "avg_speed": 0.147055425707091,
+        "num_states": 247
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154405_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154448.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022434473037719727,
+        "end_time": 3.360506534576416,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.029095100238919258,
+          0.0325654111802578,
+          0.028302794322371483
+        ],
+        "duration": 3.3380720615386963,
+        "distance": 0.012641706239186557,
+        "avg_speed": 0.003787128020645341,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.360506534576416,
+        "end_time": 4.708377480506897,
+        "start_idx": 334,
+        "end_idx": 469,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.347870945930481,
+        "distance": 0.46275534249352757,
+        "avg_speed": 0.3433231823051664,
+        "num_states": 136
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.708377480506897,
+        "end_time": 7.015806794166565,
+        "start_idx": 469,
+        "end_idx": 700,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.050377313047647476,
+          -0.04721904546022415,
+          1.1348131895065308
+        ],
+        "duration": 2.307429313659668,
+        "distance": 0.6514038834371578,
+        "avg_speed": 0.28230718903540636,
+        "num_states": 232
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.015806794166565,
+        "end_time": 8.215296745300293,
+        "start_idx": 700,
+        "end_idx": 820,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.050377313047647476,
+          -0.04721904546022415,
+          1.1348131895065308
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.199489951133728,
+        "distance": 0.5805203414501519,
+        "avg_speed": 0.48397265929694405,
+        "num_states": 121
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.215296745300293,
+        "end_time": 10.643143892288208,
+        "start_idx": 820,
+        "end_idx": 1063,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.427847146987915,
+        "distance": 0.35429854838174774,
+        "avg_speed": 0.14593115914290766,
+        "num_states": 244
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154448_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154521.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02093672752380371,
+        "end_time": 3.403143525123596,
+        "start_idx": 0,
+        "end_idx": 338,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.014697975479066372,
+          0.029016315937042236,
+          0.033223044127225876
+        ],
+        "duration": 3.3822067975997925,
+        "distance": 0.02413544367923159,
+        "avg_speed": 0.007136004722230315,
+        "num_states": 339
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.403143525123596,
+        "end_time": 4.686729907989502,
+        "start_idx": 338,
+        "end_idx": 467,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2835863828659058,
+        "distance": 0.46428741932301626,
+        "avg_speed": 0.3617110819502357,
+        "num_states": 130
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.686729907989502,
+        "end_time": 7.113873600959778,
+        "start_idx": 467,
+        "end_idx": 710,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.04753601551055908,
+          -0.0478803887963295,
+          1.1415932178497314
+        ],
+        "duration": 2.427143692970276,
+        "distance": 0.6485540743203867,
+        "avg_speed": 0.2672087673254742,
+        "num_states": 244
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.113873600959778,
+        "end_time": 8.483848333358765,
+        "start_idx": 710,
+        "end_idx": 847,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.04753601551055908,
+          -0.0478803887963295,
+          1.1415932178497314
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3699747323989868,
+        "distance": 0.5903901953510791,
+        "avg_speed": 0.43094969665406635,
+        "num_states": 138
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.483848333358765,
+        "end_time": 10.992384672164917,
+        "start_idx": 847,
+        "end_idx": 1098,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5085363388061523,
+        "distance": 0.3594018883880184,
+        "avg_speed": 0.14327154955987714,
+        "num_states": 252
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154521_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154605.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02018880844116211,
+        "end_time": 3.422747015953064,
+        "start_idx": 0,
+        "end_idx": 340,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.016135165467858315,
+          0.037351466715335846,
+          0.04139550030231476
+        ],
+        "duration": 3.402558207511902,
+        "distance": 0.029422134891871555,
+        "avg_speed": 0.0086470629148726,
+        "num_states": 341
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.422747015953064,
+        "end_time": 4.708500981330872,
+        "start_idx": 340,
+        "end_idx": 469,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2857539653778076,
+        "distance": 0.45538652546312763,
+        "avg_speed": 0.35417858915902023,
+        "num_states": 130
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.708500981330872,
+        "end_time": 7.065111994743347,
+        "start_idx": 469,
+        "end_idx": 705,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.054255109280347824,
+          -0.05231630429625511,
+          1.1335418224334717
+        ],
+        "duration": 2.3566110134124756,
+        "distance": 0.6428360028780931,
+        "avg_speed": 0.27277985175297914,
+        "num_states": 237
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.065111994743347,
+        "end_time": 8.323776125907898,
+        "start_idx": 705,
+        "end_idx": 831,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.054255109280347824,
+          -0.05231630429625511,
+          1.1335418224334717
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2586641311645508,
+        "distance": 0.5648561820617467,
+        "avg_speed": 0.4487743537580007,
+        "num_states": 127
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.323776125907898,
+        "end_time": 10.810965299606323,
+        "start_idx": 831,
+        "end_idx": 1080,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4871891736984253,
+        "distance": 0.36399878984969275,
+        "avg_speed": 0.14634945893899587,
+        "num_states": 250
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154605_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154728.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021334171295166016,
+        "end_time": 3.3798117637634277,
+        "start_idx": 0,
+        "end_idx": 336,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.026305003091692924,
+          0.024477658793330193,
+          0.04380154609680176
+        ],
+        "duration": 3.3584775924682617,
+        "distance": 0.020834945526408525,
+        "avg_speed": 0.006203687519944476,
+        "num_states": 337
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3798117637634277,
+        "end_time": 4.67681086063385,
+        "start_idx": 336,
+        "end_idx": 466,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2969990968704224,
+        "distance": 0.44341221470727044,
+        "avg_speed": 0.3418754999731275,
+        "num_states": 131
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.67681086063385,
+        "end_time": 7.1149585247039795,
+        "start_idx": 466,
+        "end_idx": 710,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.05523381009697914,
+          -0.02572600357234478,
+          1.1257381439208984
+        ],
+        "duration": 2.4381476640701294,
+        "distance": 0.6428330522142808,
+        "avg_speed": 0.26365632471216505,
+        "num_states": 245
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.1149585247039795,
+        "end_time": 8.314189076423645,
+        "start_idx": 710,
+        "end_idx": 830,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.05523381009697914,
+          -0.02572600357234478,
+          1.1257381439208984
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1992305517196655,
+        "distance": 0.5558015749986561,
+        "avg_speed": 0.46346515622175494,
+        "num_states": 121
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.314189076423645,
+        "end_time": 10.80259621143341,
+        "start_idx": 830,
+        "end_idx": 1079,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4884071350097656,
+        "distance": 0.3598922105930454,
+        "avg_speed": 0.14462754327041946,
+        "num_states": 250
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154728_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_154904.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022740960121154785,
+        "end_time": 3.3728973865509033,
+        "start_idx": 0,
+        "end_idx": 335,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.005266054533421993,
+          0.026180490851402283,
+          0.023392366245388985
+        ],
+        "duration": 3.3501564264297485,
+        "distance": 0.014382669101329227,
+        "avg_speed": 0.00429313359455779,
+        "num_states": 336
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3728973865509033,
+        "end_time": 4.5668827295303345,
+        "start_idx": 335,
+        "end_idx": 455,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1939853429794312,
+        "distance": 0.45247991779499297,
+        "avg_speed": 0.3789660572096218,
+        "num_states": 121
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.5668827295303345,
+        "end_time": 6.995484948158264,
+        "start_idx": 455,
+        "end_idx": 698,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.01697911135852337,
+          -0.043250855058431625,
+          1.1319971084594727
+        ],
+        "duration": 2.4286022186279297,
+        "distance": 0.6594709924307717,
+        "avg_speed": 0.2715434365383016,
+        "num_states": 244
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.995484948158264,
+        "end_time": 8.372919797897339,
+        "start_idx": 698,
+        "end_idx": 836,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.01697911135852337,
+          -0.043250855058431625,
+          1.1319971084594727
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3774348497390747,
+        "distance": 0.5913541142321227,
+        "avg_speed": 0.4293154876574685,
+        "num_states": 139
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.372919797897339,
+        "end_time": 11.191046953201294,
+        "start_idx": 836,
+        "end_idx": 1118,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.818127155303955,
+        "distance": 0.3546764332428158,
+        "avg_speed": 0.1258553690791718,
+        "num_states": 283
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_154904_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_155224.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021922826766967773,
+        "end_time": 3.4199706315994263,
+        "start_idx": 0,
+        "end_idx": 340,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.008307473734021187,
+          0.02623860538005829,
+          0.03915403038263321
+        ],
+        "duration": 3.3980478048324585,
+        "distance": 0.024547093768781315,
+        "avg_speed": 0.00722388123376964,
+        "num_states": 341
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.4199706315994263,
+        "end_time": 4.666941285133362,
+        "start_idx": 340,
+        "end_idx": 465,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2469706535339355,
+        "distance": 0.45688038942527365,
+        "avg_speed": 0.366392254806051,
+        "num_states": 126
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.666941285133362,
+        "end_time": 6.925001502037048,
+        "start_idx": 465,
+        "end_idx": 691,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.054721150547266006,
+          -0.04215517267584801,
+          1.1461222171783447
+        ],
+        "duration": 2.2580602169036865,
+        "distance": 0.6540196231829648,
+        "avg_speed": 0.28963781314909937,
+        "num_states": 227
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.925001502037048,
+        "end_time": 8.233156442642212,
+        "start_idx": 691,
+        "end_idx": 822,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.054721150547266006,
+          -0.04215517267584801,
+          1.1461222171783447
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3081549406051636,
+        "distance": 0.5849944484076552,
+        "avg_speed": 0.4471904896349907,
+        "num_states": 132
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.233156442642212,
+        "end_time": 10.543404340744019,
+        "start_idx": 822,
+        "end_idx": 1053,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.3102478981018066,
+        "distance": 0.33905764170293606,
+        "avg_speed": 0.14676245003037103,
+        "num_states": 232
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_155224_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_155700.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021582603454589844,
+        "end_time": 3.339049816131592,
+        "start_idx": 0,
+        "end_idx": 332,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.018866736441850662,
+          0.029643140733242035,
+          0.02325470745563507
+        ],
+        "duration": 3.317467212677002,
+        "distance": 0.022936727187198996,
+        "avg_speed": 0.006913927317669072,
+        "num_states": 333
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.339049816131592,
+        "end_time": 4.717626094818115,
+        "start_idx": 332,
+        "end_idx": 470,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3785762786865234,
+        "distance": 0.45126819978274535,
+        "avg_speed": 0.3273436564661504,
+        "num_states": 139
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.717626094818115,
+        "end_time": 7.155642509460449,
+        "start_idx": 470,
+        "end_idx": 714,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.003934194333851337,
+          -0.036577992141246796,
+          1.1173828840255737
+        ],
+        "duration": 2.438016414642334,
+        "distance": 0.6459603259466051,
+        "avg_speed": 0.26495323085893574,
+        "num_states": 245
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.155642509460449,
+        "end_time": 8.30630612373352,
+        "start_idx": 714,
+        "end_idx": 829,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.003934194333851337,
+          -0.036577992141246796,
+          1.1173828840255737
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1506636142730713,
+        "distance": 0.5431424454912508,
+        "avg_speed": 0.4720253936545822,
+        "num_states": 116
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.30630612373352,
+        "end_time": 10.902791142463684,
+        "start_idx": 829,
+        "end_idx": 1089,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5964850187301636,
+        "distance": 0.36473313519106115,
+        "avg_speed": 0.1404718812394448,
+        "num_states": 261
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_155700_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_155859.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022537708282470703,
+        "end_time": 3.3490045070648193,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.004202985670417547,
+          0.04390732944011688,
+          0.016876066103577614
+        ],
+        "duration": 3.3264667987823486,
+        "distance": 0.01808506310878497,
+        "avg_speed": 0.005436718356968119,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3490045070648193,
+        "end_time": 4.6275986433029175,
+        "start_idx": 333,
+        "end_idx": 461,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2785941362380981,
+        "distance": 0.4546256802519323,
+        "avg_speed": 0.35556684280559886,
+        "num_states": 129
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.6275986433029175,
+        "end_time": 6.807091236114502,
+        "start_idx": 461,
+        "end_idx": 679,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0.005206620786339045,
+          -0.01828748919069767,
+          1.11306893825531
+        ],
+        "duration": 2.1794925928115845,
+        "distance": 0.6438803949803363,
+        "avg_speed": 0.29542674157461535,
+        "num_states": 219
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.807091236114502,
+        "end_time": 8.334718704223633,
+        "start_idx": 679,
+        "end_idx": 832,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0.005206620786339045,
+          -0.01828748919069767,
+          1.11306893825531
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.5276274681091309,
+        "distance": 0.5586165643270967,
+        "avg_speed": 0.36567590985945153,
+        "num_states": 154
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.334718704223633,
+        "end_time": 10.742796659469604,
+        "start_idx": 832,
+        "end_idx": 1073,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4080779552459717,
+        "distance": 0.34878116245451535,
+        "avg_speed": 0.14483798653390742,
+        "num_states": 242
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_155859_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160020.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021616697311401367,
+        "end_time": 3.3592748641967773,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.0030299376230686903,
+          0.04700800031423569,
+          0.0162148829549551
+        ],
+        "duration": 3.337658166885376,
+        "distance": 0.016977129561688564,
+        "avg_speed": 0.005086539337709117,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3592748641967773,
+        "end_time": 4.577801585197449,
+        "start_idx": 334,
+        "end_idx": 456,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2185267210006714,
+        "distance": 0.4401446794367601,
+        "avg_speed": 0.36121052731228337,
+        "num_states": 123
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.577801585197449,
+        "end_time": 7.015741944313049,
+        "start_idx": 456,
+        "end_idx": 700,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0.006237260065972805,
+          -0.049366582185029984,
+          1.1243431568145752
+        ],
+        "duration": 2.4379403591156006,
+        "distance": 0.6732900639314414,
+        "avg_speed": 0.2761716714742306,
+        "num_states": 245
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.015741944313049,
+        "end_time": 8.285129070281982,
+        "start_idx": 700,
+        "end_idx": 827,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0.006237260065972805,
+          -0.049366582185029984,
+          1.1243431568145752
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.269387125968933,
+        "distance": 0.5525399513886721,
+        "avg_speed": 0.435280884834021,
+        "num_states": 128
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.285129070281982,
+        "end_time": 10.70253074169159,
+        "start_idx": 827,
+        "end_idx": 1069,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.417401671409607,
+        "distance": 0.3607007812208992,
+        "avg_speed": 0.14921011492913033,
+        "num_states": 243
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160020_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160159.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021531343460083008,
+        "end_time": 3.3485615253448486,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.011314448900520802,
+          0.039501436054706573,
+          0.014729348011314869
+        ],
+        "duration": 3.3270301818847656,
+        "distance": 0.021169649758955248,
+        "avg_speed": 0.006362926875211761,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3485615253448486,
+        "end_time": 4.597138285636902,
+        "start_idx": 333,
+        "end_idx": 458,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2485767602920532,
+        "distance": 0.4442558407474379,
+        "avg_speed": 0.3558097947005857,
+        "num_states": 126
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.597138285636902,
+        "end_time": 7.015891671180725,
+        "start_idx": 458,
+        "end_idx": 700,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.021082120016217232,
+          -0.06549810618162155,
+          1.140775203704834
+        ],
+        "duration": 2.4187533855438232,
+        "distance": 0.6880853504779381,
+        "avg_speed": 0.2844793332757368,
+        "num_states": 243
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.015891671180725,
+        "end_time": 8.284348845481873,
+        "start_idx": 700,
+        "end_idx": 827,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.021082120016217232,
+          -0.06549810618162155,
+          1.140775203704834
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2684571743011475,
+        "distance": 0.5721960903492591,
+        "avg_speed": 0.4510961047340907,
+        "num_states": 128
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.284348845481873,
+        "end_time": 10.69786548614502,
+        "start_idx": 827,
+        "end_idx": 1068,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.413516640663147,
+        "distance": 0.37268190854628863,
+        "avg_speed": 0.15441447648104434,
+        "num_states": 242
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160159_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160243.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.0222243070602417,
+        "end_time": 3.3524632453918457,
+        "start_idx": 0,
+        "end_idx": 333,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.01545119658112526,
+          0.0330020897090435,
+          0.01689290814101696
+        ],
+        "duration": 3.330238938331604,
+        "distance": 0.027432266466498833,
+        "avg_speed": 0.008237326802815522,
+        "num_states": 334
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3524632453918457,
+        "end_time": 4.519590497016907,
+        "start_idx": 333,
+        "end_idx": 450,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.167127251625061,
+        "distance": 0.43160044315660334,
+        "avg_speed": 0.3697972458064536,
+        "num_states": 118
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.519590497016907,
+        "end_time": 6.99857497215271,
+        "start_idx": 450,
+        "end_idx": 698,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.025740258395671844,
+          -0.041370127350091934,
+          1.1380060911178589
+        ],
+        "duration": 2.4789844751358032,
+        "distance": 0.6947315290340264,
+        "avg_speed": 0.28024843882734185,
+        "num_states": 249
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.99857497215271,
+        "end_time": 8.19731318950653,
+        "start_idx": 698,
+        "end_idx": 818,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.025740258395671844,
+          -0.041370127350091934,
+          1.1380060911178589
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1987382173538208,
+        "distance": 0.5781470364919009,
+        "avg_speed": 0.4822963246872561,
+        "num_states": 121
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.19731318950653,
+        "end_time": 10.60453474521637,
+        "start_idx": 818,
+        "end_idx": 1059,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.407221555709839,
+        "distance": 0.3571478132116791,
+        "avg_speed": 0.14836516080729584,
+        "num_states": 242
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160243_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160315.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022441983222961426,
+        "end_time": 3.368750214576721,
+        "start_idx": 0,
+        "end_idx": 335,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.014327307231724262,
+          0.04082099720835686,
+          0.02364877052605152
+        ],
+        "duration": 3.3463082313537598,
+        "distance": 0.02438737660628111,
+        "avg_speed": 0.0072878452671453755,
+        "num_states": 336
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.368750214576721,
+        "end_time": 4.54786479473114,
+        "start_idx": 335,
+        "end_idx": 453,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.179114580154419,
+        "distance": 0.4360890827310823,
+        "avg_speed": 0.36984453425550157,
+        "num_states": 119
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.54786479473114,
+        "end_time": 7.005937576293945,
+        "start_idx": 453,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.015830427408218384,
+          -0.057715997099876404,
+          1.1297045946121216
+        ],
+        "duration": 2.458072781562805,
+        "distance": 0.6755671737085894,
+        "avg_speed": 0.27483611501489963,
+        "num_states": 247
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.005937576293945,
+        "end_time": 8.215744733810425,
+        "start_idx": 699,
+        "end_idx": 820,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.015830427408218384,
+          -0.057715997099876404,
+          1.1297045946121216
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2098071575164795,
+        "distance": 0.5624330114247573,
+        "avg_speed": 0.4648947627151859,
+        "num_states": 122
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.215744733810425,
+        "end_time": 10.593062043190002,
+        "start_idx": 820,
+        "end_idx": 1058,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.3773173093795776,
+        "distance": 0.3597907643731215,
+        "avg_speed": 0.15134318122094448,
+        "num_states": 239
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160315_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160403.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02122962474822998,
+        "end_time": 3.3584383726119995,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.019676009193062782,
+          0.03726837784051895,
+          0.006134816445410252
+        ],
+        "duration": 3.3372087478637695,
+        "distance": 0.017874608917986087,
+        "avg_speed": 0.005356155478565154,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3584383726119995,
+        "end_time": 4.5573506355285645,
+        "start_idx": 334,
+        "end_idx": 454,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.198912262916565,
+        "distance": 0.45444685486256625,
+        "avg_speed": 0.3790493007028257,
+        "num_states": 121
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.5573506355285645,
+        "end_time": 7.035415053367615,
+        "start_idx": 454,
+        "end_idx": 702,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.00574098713696003,
+          -0.06896032392978668,
+          1.1306630373001099
+        ],
+        "duration": 2.4780644178390503,
+        "distance": 0.6790233888410632,
+        "avg_speed": 0.2740136148006971,
+        "num_states": 249
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.035415053367615,
+        "end_time": 8.293519735336304,
+        "start_idx": 702,
+        "end_idx": 828,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.00574098713696003,
+          -0.06896032392978668,
+          1.1306630373001099
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.258104681968689,
+        "distance": 0.5614870072480552,
+        "avg_speed": 0.44629593649507554,
+        "num_states": 127
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.293519735336304,
+        "end_time": 10.591001391410828,
+        "start_idx": 828,
+        "end_idx": 1058,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.297481656074524,
+        "distance": 0.3689179412957661,
+        "avg_speed": 0.160574923556125,
+        "num_states": 231
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160403_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160505.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021541714668273926,
+        "end_time": 3.3685319423675537,
+        "start_idx": 0,
+        "end_idx": 335,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.022887198254466057,
+          0.044026024639606476,
+          0.01655275747179985
+        ],
+        "duration": 3.34699022769928,
+        "distance": 0.022041021420260667,
+        "avg_speed": 0.006585325896039935,
+        "num_states": 336
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3685319423675537,
+        "end_time": 4.507331490516663,
+        "start_idx": 335,
+        "end_idx": 449,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.1387995481491089,
+        "distance": 0.4366359730708679,
+        "avg_speed": 0.3834177610805452,
+        "num_states": 115
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.507331490516663,
+        "end_time": 6.985253810882568,
+        "start_idx": 449,
+        "end_idx": 697,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.005372320301830769,
+          -0.04993554949760437,
+          1.1417431831359863
+        ],
+        "duration": 2.4779223203659058,
+        "distance": 0.6936086689495335,
+        "avg_speed": 0.27991542077360637,
+        "num_states": 249
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.985253810882568,
+        "end_time": 8.484076738357544,
+        "start_idx": 697,
+        "end_idx": 847,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.005372320301830769,
+          -0.04993554949760437,
+          1.1417431831359863
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4988229274749756,
+        "distance": 0.5988619510406231,
+        "avg_speed": 0.39955483737462494,
+        "num_states": 151
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.484076738357544,
+        "end_time": 10.793005347251892,
+        "start_idx": 847,
+        "end_idx": 1078,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.308928608894348,
+        "distance": 0.35361871535598094,
+        "avg_speed": 0.15315272806347813,
+        "num_states": 232
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160505_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160604.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.020760059356689453,
+        "end_time": 3.369042992591858,
+        "start_idx": 0,
+        "end_idx": 335,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.007641068194061518,
+          0.05254598334431648,
+          0.026598291471600533
+        ],
+        "duration": 3.3482829332351685,
+        "distance": 0.02318362499009223,
+        "avg_speed": 0.006924034035466595,
+        "num_states": 336
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.369042992591858,
+        "end_time": 4.6467156410217285,
+        "start_idx": 335,
+        "end_idx": 463,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2776726484298706,
+        "distance": 0.45181143700876225,
+        "avg_speed": 0.35362065358759337,
+        "num_states": 129
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.6467156410217285,
+        "end_time": 7.004690170288086,
+        "start_idx": 463,
+        "end_idx": 699,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.003909032791852951,
+          -0.07314091920852661,
+          1.1350367069244385
+        ],
+        "duration": 2.3579745292663574,
+        "distance": 0.6637691249980212,
+        "avg_speed": 0.28149970101862865,
+        "num_states": 237
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.004690170288086,
+        "end_time": 8.223822236061096,
+        "start_idx": 699,
+        "end_idx": 821,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.003909032791852951,
+          -0.07314091920852661,
+          1.1350367069244385
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2191320657730103,
+        "distance": 0.5692107551811273,
+        "avg_speed": 0.4668983542978259,
+        "num_states": 123
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.223822236061096,
+        "end_time": 10.59182870388031,
+        "start_idx": 821,
+        "end_idx": 1058,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.368006467819214,
+        "distance": 0.3503695035364342,
+        "avg_speed": 0.14795969027023081,
+        "num_states": 238
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160604_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160651.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02105236053466797,
+        "end_time": 3.3780767917633057,
+        "start_idx": 0,
+        "end_idx": 336,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          -0.007906053215265274,
+          0.049653682857751846,
+          0.031348079442977905
+        ],
+        "duration": 3.3570244312286377,
+        "distance": 0.021481414156353216,
+        "avg_speed": 0.006398944838328517,
+        "num_states": 337
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.3780767917633057,
+        "end_time": 4.666626572608948,
+        "start_idx": 336,
+        "end_idx": 465,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.288549780845642,
+        "distance": 0.4483541983274361,
+        "avg_speed": 0.34795256263455554,
+        "num_states": 130
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.666626572608948,
+        "end_time": 7.014687538146973,
+        "start_idx": 465,
+        "end_idx": 700,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.011919902637600899,
+          -0.06938421726226807,
+          1.140185832977295
+        ],
+        "duration": 2.348060965538025,
+        "distance": 0.6669940618851453,
+        "avg_speed": 0.2840616456192879,
+        "num_states": 236
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.014687538146973,
+        "end_time": 8.24403464794159,
+        "start_idx": 700,
+        "end_idx": 823,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.011919902637600899,
+          -0.06938421726226807,
+          1.140185832977295
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2293471097946167,
+        "distance": 0.583570657350002,
+        "avg_speed": 0.4746996618778381,
+        "num_states": 124
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.24403464794159,
+        "end_time": 10.7517751455307,
+        "start_idx": 823,
+        "end_idx": 1074,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.5077404975891113,
+        "distance": 0.3522650581493794,
+        "avg_speed": 0.14047109678534905,
+        "num_states": 252
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160651_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_160954.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.022189617156982422,
+        "end_time": 3.339782238006592,
+        "start_idx": 0,
+        "end_idx": 332,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.013712202198803425,
+          0.032273069024086,
+          0.02080787904560566
+        ],
+        "duration": 3.3175926208496094,
+        "distance": 0.02043080142145708,
+        "avg_speed": 0.006158321336097291,
+        "num_states": 333
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.339782238006592,
+        "end_time": 4.728367328643799,
+        "start_idx": 332,
+        "end_idx": 471,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.388585090637207,
+        "distance": 0.4582619730823614,
+        "avg_speed": 0.33002080763525254,
+        "num_states": 140
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.728367328643799,
+        "end_time": 6.89599883556366,
+        "start_idx": 471,
+        "end_idx": 688,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.0005576829425990582,
+          -0.0415017269551754,
+          1.1149072647094727
+        ],
+        "duration": 2.167631506919861,
+        "distance": 0.6392861449533266,
+        "avg_speed": 0.2949238110409887,
+        "num_states": 218
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.89599883556366,
+        "end_time": 8.24588680267334,
+        "start_idx": 688,
+        "end_idx": 823,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.0005576829425990582,
+          -0.0415017269551754,
+          1.1149072647094727
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3498879671096802,
+        "distance": 0.5422609037250845,
+        "avg_speed": 0.4017080801795347,
+        "num_states": 136
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.24588680267334,
+        "end_time": 10.693551421165466,
+        "start_idx": 823,
+        "end_idx": 1068,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.4476646184921265,
+        "distance": 0.34891513840253174,
+        "avg_speed": 0.1425502234932331,
+        "num_states": 246
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_160954_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_161037.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.0350339412689209,
+        "end_time": 3.36908495426178,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.02342076227068901,
+          0.02129370905458927,
+          0.02702110819518566
+        ],
+        "duration": 3.334051012992859,
+        "distance": 0.013390334196159263,
+        "avg_speed": 0.004016235547679649,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.36908495426178,
+        "end_time": 4.78757631778717,
+        "start_idx": 334,
+        "end_idx": 476,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4184913635253906,
+        "distance": 0.46583459027445207,
+        "avg_speed": 0.32840142862534516,
+        "num_states": 143
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.78757631778717,
+        "end_time": 6.86623215675354,
+        "start_idx": 476,
+        "end_idx": 684,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.004704181104898453,
+          -0.048590630292892456,
+          1.1375083923339844
+        ],
+        "duration": 2.0786558389663696,
+        "distance": 0.6486793613898163,
+        "avg_speed": 0.31206674487893,
+        "num_states": 209
+      },
+      {
+        "segment_id": 3,
+        "start_time": 6.86623215675354,
+        "end_time": 8.194982767105103,
+        "start_idx": 684,
+        "end_idx": 817,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.004704181104898453,
+          -0.048590630292892456,
+          1.1375083923339844
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3287506103515625,
+        "distance": 0.5674803843691054,
+        "avg_speed": 0.42707817399907777,
+        "num_states": 134
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.194982767105103,
+        "end_time": 10.653194665908813,
+        "start_idx": 817,
+        "end_idx": 1063,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.458211898803711,
+        "distance": 0.3618880167619243,
+        "avg_speed": 0.14721595682538072,
+        "num_states": 247
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_161037_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_161407.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.02223217487335205,
+        "end_time": 3.363556981086731,
+        "start_idx": 0,
+        "end_idx": 334,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.010268110781908035,
+          0.028720716014504433,
+          0.015428042970597744
+        ],
+        "duration": 3.341324806213379,
+        "distance": 0.012609225617829987,
+        "avg_speed": 0.0037737204100548477,
+        "num_states": 335
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.363556981086731,
+        "end_time": 4.747260928153992,
+        "start_idx": 334,
+        "end_idx": 473,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.3837039470672607,
+        "distance": 0.46268701380512917,
+        "avg_speed": 0.3343829543782015,
+        "num_states": 140
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.747260928153992,
+        "end_time": 7.034780502319336,
+        "start_idx": 473,
+        "end_idx": 702,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.05811848118901253,
+          -0.02374575287103653,
+          1.1332749128341675
+        ],
+        "duration": 2.2875195741653442,
+        "distance": 0.6590620652537608,
+        "avg_speed": 0.2881120986666246,
+        "num_states": 230
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.034780502319336,
+        "end_time": 8.293470025062561,
+        "start_idx": 702,
+        "end_idx": 828,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.05811848118901253,
+          -0.02374575287103653,
+          1.1332749128341675
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.258689522743225,
+        "distance": 0.5670481689636476,
+        "avg_speed": 0.450506784014382,
+        "num_states": 127
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.293470025062561,
+        "end_time": 10.64357054233551,
+        "start_idx": 828,
+        "end_idx": 1063,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.350100517272949,
+        "distance": 0.3511085055303998,
+        "avg_speed": 0.14940148429813768,
+        "num_states": 236
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_161407_segmented.json"
+  },
+  {
+    "subcategory": "vertical_large",
+    "filename": "vertical_large_20250904_161445.json",
+    "segments": [
+      {
+        "segment_id": 0,
+        "start_time": 0.021242856979370117,
+        "end_time": 3.369583487510681,
+        "start_idx": 0,
+        "end_idx": 335,
+        "segment_type": "takeoff",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0.01893089897930622,
+          0.012802922166883945,
+          0.018675824627280235
+        ],
+        "duration": 3.348340630531311,
+        "distance": 0.013630823778319139,
+        "avg_speed": 0.004070919085719249,
+        "num_states": 336
+      },
+      {
+        "segment_id": 1,
+        "start_time": 3.369583487510681,
+        "end_time": 4.806228518486023,
+        "start_idx": 335,
+        "end_idx": 479,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.4366450309753418,
+        "distance": 0.480362723111608,
+        "avg_speed": 0.33436423942905963,
+        "num_states": 145
+      },
+      {
+        "segment_id": 2,
+        "start_time": 4.806228518486023,
+        "end_time": 7.094091534614563,
+        "start_idx": 479,
+        "end_idx": 708,
+        "segment_type": "vertical_up",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          -0.043957825750112534,
+          -0.031540948897600174,
+          1.1255258321762085
+        ],
+        "duration": 2.28786301612854,
+        "distance": 0.6293358693347209,
+        "avg_speed": 0.27507585239944393,
+        "num_states": 230
+      },
+      {
+        "segment_id": 3,
+        "start_time": 7.094091534614563,
+        "end_time": 8.334601998329163,
+        "start_idx": 708,
+        "end_idx": 832,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          -0.043957825750112534,
+          -0.031540948897600174,
+          1.1255258321762085
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "duration": 1.2405104637145996,
+        "distance": 0.5675573639040437,
+        "avg_speed": 0.4575192072177634,
+        "num_states": 125
+      },
+      {
+        "segment_id": 4,
+        "start_time": 8.334601998329163,
+        "end_time": 10.740796327590942,
+        "start_idx": 832,
+        "end_idx": 1073,
+        "segment_type": "vertical_down",
+        "start_waypoint": [
+          0,
+          0,
+          0.5
+        ],
+        "end_waypoint": [
+          0,
+          0,
+          0.2
+        ],
+        "duration": 2.40619432926178,
+        "distance": 0.3357920117150304,
+        "avg_speed": 0.13955315563313267,
+        "num_states": 242
+      }
+    ],
+    "training_data_path": "segmented_training_data\\vertical_large_20250904_161445_segmented.json"
+  }
+]
