@@ -10,6 +10,24 @@ This project implements a two-stage neural network architecture:
 
 The system achieves high accuracy in predicting drone trajectories with Average Displacement Error (ADE) typically under 0.12 meters for well-trained segments.
 
+## Script Overview
+
+### Core Training and Evaluation Scripts
+
+- **`trajectory_trainer.py`** - Main training script for both global duration predictor and segment-specific LSTM generators. Features multi-stage training, physics-informed loss functions, and enhanced horizontal trajectory optimization.
+
+- **`ADE_calculation.py`** - Comprehensive evaluation system that calculates Average Displacement Error metrics across all trajectory segments, generates performance statistics by segment type, and creates comparison visualizations.
+
+- **`trajectory_visualizer.py`** - Advanced visualization tool for trajectory comparison between predicted and ground truth paths. Automatically detects mission types and provides appropriate 3D plots, height analysis, and X-Y plane projections.
+
+### Data Processing and Analysis
+
+- **`segmenter.py`** - Automated trajectory segmentation tool that converts raw flight data into labeled training segments. Analyzes flight patterns, identifies segment boundaries (takeoff, vertical, horizontal movements), and generates structured training data with metadata.
+
+- **`count_segments.py`** - Dataset analysis utility that provides detailed statistics on trajectory files, segment type distributions, and data quality metrics. Essential for understanding your dataset composition before training.
+
+- **`trajectory_selection.py`** - Interactive trajectory curation tool for selecting high-quality training data. Features preview generation, manual selection interface, and metadata management for building curated datasets.
+
 ## Features
 
 - **Segmented Learning**: Separate models for different flight patterns (takeoff, vertical, horizontal maneuvers)
