@@ -195,7 +195,7 @@ class GlobalDurationPredictor(nn.Module):
         encoded = self.geometry_encoder(geometry_features)
 
         # Predict temporal features
-        duration = torch.sigmoid(self.duration_head(encoded)).squeeze(1) * 15.0 + 0.1  # 0.1–15.1s
+        duration = torch.sigmoid(self.duration_head(encoded)).squeeze(1) * 14.5 + 0.1  # 0.1–14.6s
         avg_speed = torch.sigmoid(self.speed_head(encoded)).squeeze(1) * 2.0 + 0.001  # 0.001–2.001 m/s
 
         # Number of sampling points
