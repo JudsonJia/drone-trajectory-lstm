@@ -174,4 +174,4 @@ models/
 
 ## Related Work
 
-- [Crazyflie Data Collection](https://github.com/yourusername/crazyflie-data-collection) - Real drone data collection system
+- [Crazyflie Data Collection](https://github.com/JudsonJia/crazyfly-data-collection) - Real drone data collection system
