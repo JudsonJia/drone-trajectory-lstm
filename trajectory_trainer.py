@@ -501,7 +501,7 @@ class CorrectedTrainer:
                     enforce_boundary=False
                 )
 
-                # [NEW] Apply intermediate point correction for horizontal trajectory segments
+                # Apply intermediate point correction for horizontal trajectory segments
                 if segment_type in ['horizontal_straight', 'horizontal_diagonal']:
                     pred_positions = self._apply_horizontal_trajectory_correction(
                         pred_positions, target_positions, segment_type, num_points
@@ -556,7 +556,7 @@ class CorrectedTrainer:
                                       nn.MSELoss()(pred_velocities[b, n - 1, :], end_vel[b]))
                 boundary_loss /= batch_size
 
-                # [MODIFIED] Increase boundary loss weight for horizontal trajectory segments
+                # Increase boundary loss weight for horizontal trajectory segments
                 if segment_type in ['horizontal_straight', 'horizontal_diagonal']:
                     total_loss = pos_loss + vel_loss + 5.0 * physics_loss + 15.0 * boundary_loss + 0.02 * acc_loss  # Increase boundary loss weight
                 else:
